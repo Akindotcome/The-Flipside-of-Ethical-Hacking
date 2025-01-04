@@ -1,7 +1,7 @@
-## THE FLIPSIDE OF ETHICAL HACKING
+# THE FLIPSIDE OF ETHICAL HACKING
 
 ---
-# Ethical hacking is the practice of legally and systematically testing computer systems, networks, or applications to identify vulnerabilities, weaknesses, or security flaws that malicious hackers could exploit. On the broad spectrum of the types of hackers, these types of computer professionals, also known as White-Hats, are the force that protects the data of corporates or companies that employ their services. These certified professionals work with the permission of the system owner to improve security and protect against potential attacks from another malicious specialist generally referred to as Black-Hats. These types of hackers use various skills, not excluding digital skills and social engineering, to gain access to confidential data, which, if leaked, could cause irreparable damage to company stocks or shares.
+## Ethical hacking is the practice of legally and systematically testing computer systems, networks, or applications to identify vulnerabilities, weaknesses, or security flaws that malicious hackers could exploit. On the broad spectrum of the types of hackers, these types of computer professionals, also known as White-Hats, are the force that protects the data of corporates or companies that employ their services. These certified professionals work with the permission of the system owner to improve security and protect against potential attacks from another malicious specialist generally referred to as Black-Hats. These types of hackers use various skills, not excluding digital skills and social engineering, to gain access to confidential data, which, if leaked, could cause irreparable damage to company stocks or shares.
 
 # This paper explores the multifaceted nature of ethical hacking, emphasizing its benefits, limitations, and potential risks.
 
@@ -27,7 +27,7 @@ This research delves into the less-discussed aspects of ethical hacking, examini
 
 Ethical hacking, a critical component of modern cybersecurity, involves authorized attempts to penetrate computer systems, networks, and applications to identify security vulnerabilities. It's a proactive approach to security, aiming to discover and rectify weaknesses before malicious actors can exploit them. 
 
-#### 1. Legal Authorization: The Foundation of Ethical Practice
+#### (A.) Legal Authorization: The Foundation of Ethical Practice
 The cornerstone of ethical hacking is explicit permission from the system owner. This authorization is not merely a verbal agreement but should ideally be documented in a formal contract or agreement. This legal document should clearly define the scope of the engagement, specifying:
 
 - **Systems and Networks in Scope**: The precise systems, networks, applications, and data that are authorized for testing. This prevents ethical hackers from inadvertently exceeding their mandate and potentially facing legal repercussions.
@@ -38,7 +38,7 @@ The cornerstone of ethical hacking is explicit permission from the system owner.
 
 Without this explicit and documented authorization, any attempt to access or test a system, regardless of intent, is considered illegal and could result in serious legal consequences for the individual performing the actions. This legal foundation is what fundamentally distinguishes ethical hacking from malicious hacking.
 
-#### 2. Purpose: Proactive Security Enhancement
+#### (B.) Purpose: Proactive Security Enhancement
 The fundamental purpose of ethical hacking is to enhance security by proactively identifying and mitigating vulnerabilities. This preventative approach aims to:
 
 - Identify Vulnerabilities: Discover weaknesses in systems, networks, and applications that could be exploited by malicious actors. These vulnerabilities can range from software bugs and misconfigurations to weak passwords and insecure network protocols.
@@ -51,7 +51,7 @@ The fundamental purpose of ethical hacking is to enhance security by proactively
 
 The focus is not simply on finding vulnerabilities but on providing actionable intelligence that allows organizations to improve their security posture and mitigate real-world risks.
 
-#### 3. Techniques: Mimicking Malicious Actors within Ethical Boundaries
+#### (C.) Techniques: Mimicking Malicious Actors within Ethical Boundaries
 Ethical hackers employ techniques similar to those used by malicious hackers. This “think like a hacker” approach allows them to effectively identify and exploit vulnerabilities before malicious actors can. These techniques include:
 - Vulnerability Scanning: Automated tools are used to scan systems and networks for known vulnerabilities.
 
@@ -64,7 +64,7 @@ Ethical hackers employ techniques similar to those used by malicious hackers. Th
 - Web Application Testing: Specific techniques are used to identify vulnerabilities in web applications, such as SQL injection, cross-site scripting, and cross-site request forgery.
 However, a crucial distinction is that ethical hackers operate within an ethical and legal framework. This means they adhere to strict ethical guidelines, obtain proper authorization, and respect the privacy and confidentiality of the client's data. They do not engage in activities that could cause harm, such as data destruction, system disruption, or unauthorized access to sensitive information outside the scope of the engagement.
 
-#### 4. Reporting: Providing Actionable Intelligence
+#### (D.). Reporting: Providing Actionable Intelligence
 Reporting is a crucial deliverable of any ethical hacking engagement. A comprehensive report should:
 •	Document Findings: Clearly and concisely describe all discovered vulnerabilities, including their location, severity, and potential impact.
 •	Provide Evidence: Include supporting evidence, such as screenshots, logs, and network traffic captures, to validate the findings.
