@@ -1,13 +1,13 @@
-#### The Flipside of Ethical Hacking
+## THE FLIPSIDE OF ETHICAL HACKING
 
-# Abstract:
+---
 # Ethical hacking is the practice of legally and systematically testing computer systems, networks, or applications to identify vulnerabilities, weaknesses, or security flaws that malicious hackers could exploit. On the broad spectrum of the types of hackers, these types of computer professionals, also known as White-Hats, are the force that protects the data of corporates or companies that employ their services. These certified professionals work with the permission of the system owner to improve security and protect against potential attacks from another malicious specialist generally referred to as Black-Hats. These types of hackers use various skills, not excluding digital skills and social engineering, to gain access to confidential data, which, if leaked, could cause irreparable damage to company stocks or shares.
 
 # This paper explores the multifaceted nature of ethical hacking, emphasizing its benefits, limitations, and potential risks.
 
 ---
 
-## Chapter One: Introduction
+## (1.) Introduction
 
 ### Introduction
 
@@ -81,7 +81,7 @@ A comprehensive report should document findings, provide evidence, prioritize ri
 
 ---
 
-## Chapter Two: Tools of Ethical Hacking
+## (2.) Tools of Ethical Hacking
 
 Ethical hacking involves authorized attempts to penetrate systems and identify security weaknesses. Here's a breakdown of its core aspects:
 
@@ -112,7 +112,7 @@ However, ethical hackers operate within an ethical and legal framework, adhering
 
 This report serves as a roadmap for improving an organization's security posture. 
 
-### Chapter 3: Tools of Ethical Hacking
+### (3.) Tools of Ethical Hacking
 
 Several tools aid in ethical hacking:
 
@@ -121,7 +121,7 @@ Several tools aid in ethical hacking:
  3. Nikto: A free, open-source web server scanner for penetration testing.
  4. Kismet: A popular tool for wireless LAN (WLAN) penetration testing.
 
-### Chapter 4: Techniques of Ethical Hacking
+### (4.) Techniques of Ethical Hacking
 
 Ethical hacking involves systematic techniques for identifying and exploiting vulnerabilities:
 
@@ -135,7 +135,7 @@ Ethical hacking involves systematic techniques for identifying and exploiting vu
 
 5. Test Analysis: The final stage involves analyzing the results of the tests conducted. Ethical hackers document their findings, including discovered vulnerabilities, their potential impact, and remediation steps. The report serves as a critical reference for organizations to strengthen their defenses.
 
-### Chapter 5: Challenges and Ethical Dilemmas
+### (5.) Challenges and Ethical Dilemmas
 
 Ethical hacking presents several challenges:
 
@@ -147,7 +147,7 @@ Ethical hacking presents several challenges:
 
 4. Over-Reliance on Tools: Overreliance on automation tools can lead to complacency. Ethical hackers should combine tools with manual analysis for thorough assessments.
 
-### Chapter 6: Case Studies
+### (6.) Case Studies
 The following cases underscore the importance of acting on ethical hacking findings. 
 
 1. Yahoo Data Breach: A report highlighting significant weaknesses in Yahoo's security in the early 2010s went unaddressed, leading to a massive data breach in 2013.
@@ -155,7 +155,7 @@ The following cases underscore the importance of acting on ethical hacking findi
 2. The Equifax Breach: Equifax's failure to address an identified vulnerability resulted in the theft of sensitive data from 147 million people in 2017.
 
 
-### Chapter 7: Conclusion
+### (7.) Conclusion
 
 Ethical hacking is a double-edged sword. While it strengthens cybersecurity, it also presents challenges that require careful management. Organizations must establish clear protocols, maintain trust, and act on findings to fully benefit from ethical hacking. Addressing its risks and limitations will ensure ethical hacking remains a force for good in the cybersecurity landscape.
 
