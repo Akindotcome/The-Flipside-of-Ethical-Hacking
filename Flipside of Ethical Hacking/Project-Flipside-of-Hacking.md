@@ -7,7 +7,6 @@
 
 ---
 
-## (1.) Introduction
 
 ### Introduction
 
