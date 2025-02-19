@@ -164,4 +164,4 @@ Ethical hacking is a double-edged sword. While it strengthens cybersecurity, it 
 * Tenable Network Security, Nessus Documentation.
 * Nmap.org, Official Documentation.
 * Open Web Application Security Project (OWASP): Testing Guidelines.
-* "Cybersecurity: Risks and
+
